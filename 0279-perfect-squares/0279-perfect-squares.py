@@ -4,18 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        squares = [i*i for i in range(1, int(math.sqrt(n))+1)]
-        def bfs(n):
-            q = deque([(n, 0)])
-            while q:
-                curr, cnt = q.popleft()
-                for square in squares:
-                    diff = curr - square
-                    if diff == 0:
-                        return cnt + 1
-                    elif diff < 0:
-                        break
-                    q.append((diff, cnt+1))
+        dp = [float('inf')]*(n+1)
+        dp[0] = 0
 
-            return -1
-        return bfs(n)
+        for i in range(1, n+1):
+            j = 1
+            while j*j <= i:
+                dp[i] = min(dp[i], dp[i-j*j]+1)
+                j += 1
+        return dp[n]
