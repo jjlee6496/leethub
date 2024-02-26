@@ -14,12 +14,11 @@ class Solution(object):
         return self.traverse(p)==self.traverse(q)
         
     def traverse(self, node):
-        result = []
         if not node:
-            result.append(None)
-        if node:
-            result.append(node.val)
-            result.extend(self.traverse(node.left))
-            result.extend(self.traverse(node.right))
+            return [None]
+        
+        result = [node.val]
+        result.extend(self.traverse(node.left))
+        result.extend(self.traverse(node.right))
 
         return result
