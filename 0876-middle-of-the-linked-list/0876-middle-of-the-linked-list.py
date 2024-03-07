@@ -9,13 +9,8 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        slow = head
-        fast = head
-        n = 0
-        while fast.next:
-            fast = fast.next
-            n += 1
-        
-        for _ in range(n//2):
+        slow = fast = head
+        while fast and fast.next:
             slow = slow.next
-        return slow.next if n%2 else slow
+            fast = fast.next.next
+        return slow
