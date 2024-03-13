@@ -4,7 +4,15 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        for i in range(1, n+1):
-            if sum([x for x in range(i+1, n+1)])==i*(i-1)/2:
-                return i
+        l, r = 1, n
+        while l <= r:
+            m = (l + r)/2
+            leftsum = m*(m + 1)/2
+            rightsum = n*(n + 1)/2 - leftsum + m
+            if leftsum == rightsum:
+                return m
+            elif leftsum < rightsum:
+                l = m + 1
+            else:
+                r = m - 1
         return -1
