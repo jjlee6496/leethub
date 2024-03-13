@@ -5,6 +5,6 @@ class Solution(object):
         :rtype: int
         """
         for i in range(1, n+1):
-            if sum([x for x in range(1, i+1)]) == sum([x for x in range(i, n+1)]):
+            if sum([x for x in range(i+1, n+1)])==i*(i-1)/2:
                 return i
         return -1
