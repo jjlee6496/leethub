@@ -4,8 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        dic = {}
+        x = 0
         for num in nums:
-            dic[num] = dic.get(num, 0) + 1
+            x ^= num
         
-        return [num for num, count in dic.items() if count==1]
+        lowest = x & -x
+        res = [0, 0]
+        for num in nums:
+            if lowest & num:
+                res[0] ^= num
+            else:
+                res[1] ^= num
+        return res
