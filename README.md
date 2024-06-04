@@ -12,10 +12,12 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jjlee6496/leethub/tree/master/0344-reverse-string) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/jjlee6496/leethub/tree/master/0409-longest-palindrome) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Greedy
 |  |
 | ------- |
@@ -24,7 +26,12 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Matrix
 |  |
 | ------- |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
+# Sorting
+|  |
+| ------- |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
