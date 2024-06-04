@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: int
         """
         cnt = set(nums)
-        temp = set()
+        res = -1
         for num in nums:
             if -num in cnt:
-                temp.add(abs(num))
-        return max(temp) if temp else -1
+                res = max(res, abs(num))
+        return res
