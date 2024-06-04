@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        cnt = Counter(nums)
+        cnt = set(nums)
         temp = set()
         for num in nums:
             if -num in cnt:
