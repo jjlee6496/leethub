@@ -28,6 +28,7 @@ leetcode 자동 제출
 # Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jjlee6496/leethub/tree/master/0078-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jjlee6496/leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -40,3 +41,11 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jjlee6496/leethub/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jjlee6496/leethub/tree/master/0078-subsets) |
