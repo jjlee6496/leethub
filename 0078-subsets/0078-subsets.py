@@ -4,12 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        res =[]
-        def dfs(ind, subset):
-            res.append(subset[:])
-            for i in range(ind, len(nums)):
-                subset.append(nums[i])
-                dfs(i+1, subset)
-                subset.pop()
-        dfs(0, [])
+        mask = 1 << len(nums)
+        res = [[] for _ in range(mask)]
+        for m in range(mask):
+            for i, x in enumerate(nums):
+                if m & 1 << i:
+                    res[m].append(x)
         return res
