@@ -49,3 +49,19 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jjlee6496/leethub/tree/master/0078-subsets) |
+# Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+# Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+# Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
