@@ -12,14 +12,15 @@ class Solution(object):
         :rtype: bool
         """
         if not root:
-                return False
+            return False
         q = deque([(root, root.val)])
         while q:
             node, val = q.popleft()
-            if not node.left and not node.right and val == targetSum:
+            if not node.left and not node.right and val==targetSum:
                 return True
             if node.left:
-                q.append((node.left, val + node.left.val))
+                q.append((node.left, node.left.val + val))
             if node.right:
-                q.append((node.right, val + node.right.val))
+                q.append((node.right, node.right.val + val))
         return False
+        
