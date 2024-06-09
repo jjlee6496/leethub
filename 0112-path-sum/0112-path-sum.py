@@ -11,22 +11,15 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        
-        q = deque([(root, 0)])
+        if not root:
+                return False
+        q = deque([(root, root.val)])
         while q:
             node, val = q.popleft()
-            if not node:
-                continue
-            val += node.val
-                
+            if not node.left and not node.right and val == targetSum:
+                return True
             if node.left:
-                q.append((node.left, val))
+                q.append((node.left, val + node.left.val))
             if node.right:
-                q.append((node.right, val))
-
-            if not node.left and not node.right:
-                if val == targetSum:
-                    return True
-                else:
-                    continue
+                q.append((node.right, val + node.right.val))
         return False
