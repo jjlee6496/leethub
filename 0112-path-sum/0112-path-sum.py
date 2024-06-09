@@ -11,14 +11,22 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        def dfs(node, curr):
+        
+        q = deque([(root, 0)])
+        while q:
+            node, val = q.popleft()
             if not node:
-                return False
-            curr += node.val
+                continue
+            val += node.val
+                
+            if node.left:
+                q.append((node.left, val))
+            if node.right:
+                q.append((node.right, val))
 
             if not node.left and not node.right:
-                return curr == targetSum
-            
-            return dfs(node.left, curr) or dfs(node.right, curr)
-
-        return dfs(root, 0)
+                if val == targetSum:
+                    return True
+                else:
+                    continue
+        return False
