@@ -8,10 +8,8 @@ class Solution(object):
         cnt = Counter(arr1)
         res = []
         for num in arr2:
-            for _ in range(cnt[num]):
-                res.append(num)
+            res.extend([num]*cnt[num])
             del cnt[num]
         for k, v in sorted(cnt.items(), key=lambda x: x[0]):
-            for _ in range(v):
-                res.append(k)
+            res.extend([k]*v)
         return res
