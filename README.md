@@ -27,6 +27,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/jjlee6496/leethub/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ leetcode 자동 제출
 | [1137-height-checker](https://github.com/jjlee6496/leethub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jjlee6496/leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -47,6 +49,7 @@ leetcode 자동 제출
 | ------- |
 | [1137-height-checker](https://github.com/jjlee6496/leethub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Backtracking
 |  |
