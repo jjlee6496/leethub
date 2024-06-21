@@ -4,10 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort()
+        cnt = Counter(nums)
         res = 0
-        for i in range(1, len(nums)):
-            if nums[i-1] >= nums[i]:
-                res += nums[i-1] - nums[i] + 1
-                nums[i] = nums[i-1] + 1
+        for i in range(len(nums)+max(nums)):
+            if cnt[i] > 1:
+                extra = cnt[i] - 1
+                cnt[i+1] += extra
+                res += extra
         return res
