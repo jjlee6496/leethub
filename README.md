@@ -40,6 +40,7 @@ leetcode 자동 제출
 | [1016-subarray-sums-divisible-by-k](https://github.com/jjlee6496/leethub/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/jjlee6496/leethub/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/jjlee6496/leethub/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -91,3 +92,7 @@ leetcode 자동 제출
 | ------- |
 | [1137-height-checker](https://github.com/jjlee6496/leethub/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
