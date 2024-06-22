@@ -37,6 +37,7 @@ leetcode 자동 제출
 # Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/jjlee6496/leethub/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jjlee6496/leethub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jjlee6496/leethub/tree/master/0078-subsets) |
 | [0876-hand-of-straights](https://github.com/jjlee6496/leethub/tree/master/0876-hand-of-straights) |
@@ -103,3 +104,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
+# Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/jjlee6496/leethub/tree/master/0066-plus-one) |
