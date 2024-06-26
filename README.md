@@ -15,6 +15,7 @@ leetcode 자동 제출
 | ------- |
 | [0075-sort-colors](https://github.com/jjlee6496/leethub/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/jjlee6496/leethub/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/jjlee6496/leethub/tree/master/0633-sum-of-square-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jjlee6496/leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Hash Table
@@ -115,6 +116,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jjlee6496/leethub/tree/master/0066-plus-one) |
+| [0633-sum-of-square-numbers](https://github.com/jjlee6496/leethub/tree/master/0633-sum-of-square-numbers) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -122,5 +124,6 @@ leetcode 자동 제출
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/jjlee6496/leethub/tree/master/0633-sum-of-square-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
