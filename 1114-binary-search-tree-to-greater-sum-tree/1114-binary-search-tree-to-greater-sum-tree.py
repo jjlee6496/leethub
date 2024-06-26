@@ -10,7 +10,7 @@ class Solution(object):
         :type root: TreeNode
         :rtype: TreeNode
         """
-        s = [0]
+        self.sum = 0
         def dfs(node):
             if not node:
                 return None
@@ -18,8 +18,8 @@ class Solution(object):
             if node.right:
                 dfs(node.right)
 
-            node.val += s[0]
-            s[0] = node.val
+            node.val += self.sum
+            self.sum = node.val
 
             if node.left:
                 dfs(node.left)
