@@ -12,6 +12,8 @@ class Solution(object):
         """
         s = [0]
         def dfs(node):
+            if not node:
+                return None
 
             if node.right:
                 dfs(node.right)
