@@ -33,6 +33,7 @@ leetcode 자동 제출
 | [0409-longest-palindrome](https://github.com/jjlee6496/leethub/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/jjlee6496/leethub/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jjlee6496/leethub/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -78,10 +79,12 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +93,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Prefix Sum
 |  |
 | ------- |
@@ -108,3 +112,11 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jjlee6496/leethub/tree/master/0066-plus-one) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
