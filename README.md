@@ -27,6 +27,7 @@ leetcode 자동 제출
 | [1044-find-common-characters](https://github.com/jjlee6496/leethub/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/jjlee6496/leethub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 # Greedy
 |  |
@@ -50,6 +51,7 @@ leetcode 자동 제출
 | [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jjlee6496/leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -112,6 +114,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@ leetcode 자동 제출
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/jjlee6496/leethub/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/jjlee6496/leethub/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
