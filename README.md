@@ -79,11 +79,13 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
@@ -93,6 +95,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
 # Prefix Sum
 |  |
@@ -119,4 +122,5 @@ leetcode 자동 제출
 # Binary Search Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
