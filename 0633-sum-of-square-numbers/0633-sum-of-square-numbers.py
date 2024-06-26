@@ -4,11 +4,13 @@ class Solution(object):
         :type c: int
         :rtype: bool
         """
-        dic = set()
-        for a in range(int(math.sqrt(c))+1):
-            dic.add(a*a)
-
-        for b in range(int(math.sqrt(c))+1):
-            if c - b*b in dic:
+        left, right = 0, int(math.sqrt(c))+1
+        while left <= right:
+            target = left*left + right*right
+            if target == c:
                 return True
+            elif target < c:
+                left += 1
+            else:
+                right -= 1
         return False
