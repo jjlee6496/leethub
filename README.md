@@ -135,3 +135,7 @@ leetcode 자동 제출
 | [0633-sum-of-square-numbers](https://github.com/jjlee6496/leethub/tree/master/0633-sum-of-square-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jjlee6496/leethub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/jjlee6496/leethub/tree/master/1916-find-center-of-star-graph) |
