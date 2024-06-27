@@ -4,11 +4,5 @@ class Solution(object):
         :type edges: List[List[int]]
         :rtype: int
         """
-        cnt = Counter()
-        for u, v in edges:
-            cnt[u] += 1
-            cnt[v] += 1
-        
-        for k, v in cnt.items():
-            if v == len(edges):
-                return k
+        u1, u2 = edges[0][0], edges[0][1]
+        return u1 if u1 in [edges[1][0], edges[1][1]] else u2
