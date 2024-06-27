@@ -52,6 +52,7 @@ leetcode 자동 제출
 | [1217-relative-sort-array](https://github.com/jjlee6496/leethub/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/jjlee6496/leethub/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jjlee6496/leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/jjlee6496/leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -115,6 +116,7 @@ leetcode 자동 제출
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/jjlee6496/leethub/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Math
 |  |
 | ------- |
@@ -139,3 +141,19 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/jjlee6496/leethub/tree/master/1916-find-center-of-star-graph) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
