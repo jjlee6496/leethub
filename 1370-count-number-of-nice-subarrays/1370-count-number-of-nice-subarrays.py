@@ -5,23 +5,21 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        left, m = 0, 0
-        odds = 0
+        l, m = 0, 0
+        odd = 0
         res = 0
-        for right in range(len(nums)):
-            if nums[right]%2:
-                odds += 1
+        for r in range(len(nums)):
+            if nums[r]%2:
+                odd += 1
 
-            while odds > k:
-                if nums[left] % 2:
-                    odds -= 1
-                left += 1
-                m = left
+            while odd > k:
+                if nums[l]%2:
+                    odd -= 1
+                l += 1
+                m = l
 
-
-            if odds == k:
+            if odd == k:
                 while not nums[m]%2:
                     m += 1
-                res += m - left + 1
-
+                res += (m - l + 1)
         return res
