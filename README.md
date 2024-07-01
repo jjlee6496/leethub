@@ -162,6 +162,7 @@ leetcode 자동 제출
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jjlee6496/leethub/tree/master/0035-search-insert-position) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ leetcode 자동 제출
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jjlee6496/leethub/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/jjlee6496/leethub/tree/master/0278-first-bad-version) |
 ## Interactive
