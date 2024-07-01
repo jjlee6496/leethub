@@ -9,11 +9,13 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        l, r = 1, n
-        while l < r:
+        l, r = 0, n
+        while isBadVersion(r):
             mid = (l + r) // 2
+
             if isBadVersion(mid):
-                r = mid
+                r = mid - 1
             else:
                 l = mid + 1
-        return l
+
+        return r+1
