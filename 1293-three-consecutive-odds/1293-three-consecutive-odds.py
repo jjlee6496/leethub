@@ -14,5 +14,5 @@ class Solution(object):
                     return True
             else:
                 cnt = 0
-        return cnt == 3
+        return False
     
