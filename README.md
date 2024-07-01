@@ -163,4 +163,12 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
