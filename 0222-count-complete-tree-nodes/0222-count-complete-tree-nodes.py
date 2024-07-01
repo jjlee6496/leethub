@@ -10,16 +10,22 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        q = deque([root])
-        cnt = 0
-        while q:
-            node = q.popleft()
-            if node:
-                cnt += 1
-            if node and node.left:
-                q.append(node.left)
+        left = root
+        right = root
+        lh = 0
+        rh = 0
+        if not root:
+            return 0
 
-            if node and node.right:
-                q.append(node.right)
+        while left:
+            lh += 1
+            left = left.left
 
-        return cnt
+        while right:
+            rh+= 1
+            right = right.right
+        
+        if lh == rh:
+            return int(math.pow(2, lh)) - 1
+
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
