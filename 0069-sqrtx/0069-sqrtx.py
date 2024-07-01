@@ -4,17 +4,16 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
+        l, r = 1, x
         if not x:
             return 0
-        left, right = 1, x
-        while left <= right:
-            mid = (left + right) // 2
-            square = mid * mid
-
-            if square == x:
+        while l <= r:
+            mid = (l + r) // 2
+            mul = mid * mid
+            if mul == x:
                 return mid
-            elif square < x:
-                left = mid + 1
+            elif mul < x:
+                l = mid + 1
             else:
-                right = mid - 1
-        return mid - 1 if square > x else mid
+                r = mid - 1
+        return mid - 1 if mul > x else mid
