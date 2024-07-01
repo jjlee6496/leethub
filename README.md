@@ -157,3 +157,10 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jjlee6496/leethub/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
