@@ -8,10 +8,10 @@ class Solution(object):
             return False
         cnt = 0
         for num in arr:
-            if cnt == 3:
-                return True
             if num % 2:
                 cnt += 1
+                if cnt == 3:
+                    return True
             else:
                 cnt = 0
         return cnt == 3
