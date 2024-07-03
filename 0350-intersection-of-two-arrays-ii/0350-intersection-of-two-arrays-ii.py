@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         i, j = 0, 0
-        if len(nums1) > len(nums2):
-            nums1, nums2 = nums2, nums1
+        # if len(nums1) > len(nums2):
+        #     nums1, nums2 = nums2, nums1
         n, m = len(nums1), len(nums2)
         nums1.sort()
         nums2.sort()
