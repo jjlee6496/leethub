@@ -167,11 +167,13 @@ leetcode 자동 제출
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,4 +220,12 @@ leetcode 자동 제출
 | ------- |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
