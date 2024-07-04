@@ -223,9 +223,14 @@ leetcode 자동 제출
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
