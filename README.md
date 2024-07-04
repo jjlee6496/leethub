@@ -166,6 +166,7 @@ leetcode 자동 제출
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -205,6 +206,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -220,6 +222,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jjlee6496/leethub/tree/master/0125-valid-palindrome) |
+| [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,4 +249,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
