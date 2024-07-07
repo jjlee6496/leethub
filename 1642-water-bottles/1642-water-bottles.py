@@ -5,10 +5,5 @@ class Solution(object):
         :type numExchange: int
         :rtype: int
         """
-        res, remain = numBottles, numBottles
         
-        while remain // numExchange:
-            div, mod = divmod(remain, numExchange)
-            res += div
-            remain = (div + mod)
-        return res
+        return numBottles + (numBottles-1) // (numExchange-1)
