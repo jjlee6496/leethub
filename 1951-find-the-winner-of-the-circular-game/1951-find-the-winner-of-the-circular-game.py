@@ -5,14 +5,19 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        nums = deque([x for x in range(1, n+1)])
-        ind = 1
-        while len(nums) > 1:
-            if ind == k:
-                nums.popleft()
-                ind = 1
-            else:
-                nums.append(nums.popleft())
-                ind += 1
-        return nums[0]
-            
+        # nums = deque([x for x in range(1, n+1)])
+        # ind = 1
+        # while len(nums) > 1:
+        #     for _ in range(k-1):
+        #         nums.append(nums.popleft())
+        #     nums.popleft()
+        # return nums[0]
+    #     return self.helper(n, k) + 1
+    # def helper(self, n, k):
+    #     if n == 1:
+    #         return 0
+    #     return (self.helper(n - 1, k) + k) % n
+        ind = 0
+        for i in range(1, n+1):
+            ind = (ind + k) % i
+        return ind + 1
