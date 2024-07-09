@@ -249,6 +249,7 @@ leetcode 자동 제출
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jjlee6496/leethub/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
