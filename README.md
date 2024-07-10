@@ -168,6 +168,7 @@ leetcode 자동 제출
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
+| [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -240,6 +241,7 @@ leetcode 자동 제출
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -278,5 +280,6 @@ leetcode 자동 제출
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
