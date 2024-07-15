@@ -170,6 +170,7 @@ leetcode 자동 제출
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -183,6 +184,7 @@ leetcode 자동 제출
 | ------- |
 | [0029-divide-two-integers](https://github.com/jjlee6496/leethub/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -205,6 +207,7 @@ leetcode 자동 제출
 | ------- |
 | [0029-divide-two-integers](https://github.com/jjlee6496/leethub/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@ leetcode 자동 제출
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -241,6 +245,7 @@ leetcode 자동 제출
 | ------- |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -289,4 +294,9 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jjlee6496/leethub/tree/master/0047-permutations-ii) |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
