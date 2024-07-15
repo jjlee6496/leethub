@@ -164,6 +164,7 @@ leetcode 자동 제출
 | ------- |
 | [0031-next-permutation](https://github.com/jjlee6496/leethub/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/jjlee6496/leethub/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/jjlee6496/leethub/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -284,4 +285,8 @@ leetcode 자동 제출
 | ------- |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/jjlee6496/leethub/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
