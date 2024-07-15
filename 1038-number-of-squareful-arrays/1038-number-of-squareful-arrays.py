@@ -17,7 +17,7 @@ class Solution(object):
             
             for num in cnt:
                 if cnt[num] > 0:
-                    if last is not None and not squareful(last, num):
+                    if last  and not squareful(last, num):
                         continue
                     cnt[num] -= 1
                     dfs(perm + [num], num, cnt)
