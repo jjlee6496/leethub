@@ -177,6 +177,7 @@ leetcode 자동 제출
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Math
@@ -215,6 +216,7 @@ leetcode 자동 제출
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +224,7 @@ leetcode 자동 제출
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +232,7 @@ leetcode 자동 제출
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
