@@ -22,8 +22,10 @@ class Solution(object):
             if not node.left and not node.right and curr == targetSum:
                 res.append(path[:])
             else:
-                dfs(node.left, curr, path)
-                dfs(node.right, curr, path)
+                if node.left:
+                    dfs(node.left, curr, path)
+                if node.right:
+                    dfs(node.right, curr, path)
             path.pop()
         
         dfs(root, 0, [])
