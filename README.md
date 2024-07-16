@@ -211,11 +211,13 @@ leetcode 자동 제출
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Table
@@ -305,5 +307,10 @@ leetcode 자동 제출
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
