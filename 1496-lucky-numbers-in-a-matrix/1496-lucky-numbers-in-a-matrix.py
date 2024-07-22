@@ -13,7 +13,9 @@ class Solution(object):
         for i in range(len(matrix)):
             a = min(matrix[i])
             for j in range(len(matrix[i])):
-                if matrix[i][j] == maxs[j] and a == matrix[i][j]:
+                if a != matrix[i][j]:
+                    continue
+                if matrix[i][j] == maxs[j]:
                     ans.append(matrix[i][j])
         return ans
 
