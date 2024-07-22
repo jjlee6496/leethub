@@ -4,11 +4,7 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: List[int]
         """
-        ans = []
-        maxs = []
-
-        for m in zip(*matrix):
-            maxs.append(max(m))
+        maxs = [max(x) for x in zip(*matrix)]
 
         for i in range(len(matrix)):
             a = min(matrix[i])
