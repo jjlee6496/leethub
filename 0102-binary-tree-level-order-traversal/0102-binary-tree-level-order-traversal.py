@@ -18,8 +18,7 @@ class Solution(object):
             temp = []
             for _ in range(len(q)):
                 node = q.popleft()
-                if not node:
-                    continue
+
                 temp.append(node.val)
                 if node.left:
                     q.append(node.left)
