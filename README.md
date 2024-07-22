@@ -173,6 +173,7 @@ leetcode 자동 제출
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
@@ -327,4 +328,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
