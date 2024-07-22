@@ -10,6 +10,8 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[List[int]]
         """
+        if not root:
+            return []
         res = []
         q = deque([root])
         while q:
@@ -23,6 +25,6 @@ class Solution(object):
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            if temp:
-                res.append(temp)
+                    
+            res.append(temp)
         return res
