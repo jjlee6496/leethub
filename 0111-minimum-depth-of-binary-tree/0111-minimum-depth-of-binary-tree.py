@@ -13,9 +13,17 @@ class Solution(object):
         if not root:
             return 0
         
-        l, r = self.minDepth(root.left), self.minDepth(root.right)
+        q = deque([root])
+        depth = 1
+        while q:
+            for _ in range(len(q)):
+                node = q.popleft()
+                if not node.left and not node.right:
+                    return depth
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            depth += 1
 
-        if not root.left or not root.right:
-            return 1 + max(l, r)
-        
-        return 1 + min(l, r)
+        return -1
