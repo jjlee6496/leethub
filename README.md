@@ -215,6 +215,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -223,6 +224,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -322,6 +324,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
@@ -332,4 +335,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
