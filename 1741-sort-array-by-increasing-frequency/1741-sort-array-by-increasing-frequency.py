@@ -5,9 +5,12 @@ class Solution(object):
         :rtype: List[int]
         """
         cnt = Counter(nums)
+        max_heap = []
+        for k, v in cnt.items():
+            heapq.heappush(max_heap, (-v, k))
         res = []
-        temp = [[k]*v for k,v in sorted(cnt.items(), key = lambda (x, y): (y, -x))]
-        for x in temp:
-            res.extend(x)
-        return res
+        while max_heap:
+            freq, num = heapq.heappop(max_heap)
+            res.extend([num]*-freq)
+        return reversed(res)
         
