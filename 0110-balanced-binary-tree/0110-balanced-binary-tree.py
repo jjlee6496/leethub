@@ -12,14 +12,13 @@ class Solution(object):
         """
         def check(node):
             if not node:
-                return 0, True
+                return 0
             
-            l, l_check = check(node.left)
-            r, r_check = check(node.right)
+            l, r = check(node.left), check(node.right)
 
-            curr_height = 1 + max(l, r)
-            curr_check = l_check and r_check and abs(l-r) <= 1
-            return curr_height, curr_check
-        
-        _, res = check(root)
-        return res
+            if l < 0 or r < 0 or abs(l - r) > 1:
+                return -1
+            
+            return max(l, r) + 1
+
+        return check(root) >= 0
