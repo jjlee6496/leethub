@@ -171,6 +171,7 @@ leetcode 자동 제출
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
@@ -224,6 +225,7 @@ leetcode 자동 제출
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -236,6 +238,7 @@ leetcode 자동 제출
 | [0111-minimum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
@@ -244,6 +247,7 @@ leetcode 자동 제출
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jjlee6496/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -341,6 +345,7 @@ leetcode 자동 제출
 | [0111-minimum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
