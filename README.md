@@ -177,6 +177,7 @@ leetcode 자동 제출
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jjlee6496/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -283,6 +284,7 @@ leetcode 자동 제출
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 ## Simulation
 |  |
 | ------- |
@@ -388,4 +390,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
