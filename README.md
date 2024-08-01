@@ -175,6 +175,7 @@ leetcode 자동 제출
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
@@ -194,6 +195,7 @@ leetcode 자동 제출
 | [0029-divide-two-integers](https://github.com/jjlee6496/leethub/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -399,4 +401,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
