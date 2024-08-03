@@ -5,7 +5,10 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
-        if set(arr) != set(target):
-            return False
+        dic1 = {}
+        dic2 = {}
+        for a, t in zip(arr, target):
+            dic1[a] = dic1.get(a, 0) + 1
+            dic2[t] = dic2.get(t, 0) + 1
 
-        return sorted(arr) == sorted(target)
+        return dic1 == dic2
