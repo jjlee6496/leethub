@@ -266,6 +266,7 @@ leetcode 자동 제출
 | [2163-kth-distinct-string-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +285,7 @@ leetcode 자동 제출
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jjlee6496/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -297,6 +299,7 @@ leetcode 자동 제출
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +335,7 @@ leetcode 자동 제출
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -419,6 +423,7 @@ leetcode 자동 제출
 | ------- |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
