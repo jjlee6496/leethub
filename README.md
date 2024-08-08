@@ -242,6 +242,7 @@ leetcode 자동 제출
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -255,6 +256,7 @@ leetcode 자동 제출
 | [0111-minimum-depth-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jjlee6496/leethub/tree/master/0222-count-complete-tree-nodes) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -398,6 +400,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0098-validate-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/jjlee6496/leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
