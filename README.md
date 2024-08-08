@@ -171,6 +171,7 @@ leetcode 자동 제출
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
+| [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
@@ -317,6 +318,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
+| [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -392,6 +394,7 @@ leetcode 자동 제출
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Breadth-First Search
 |  |
