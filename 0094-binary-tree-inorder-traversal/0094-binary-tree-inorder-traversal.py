@@ -10,12 +10,13 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
-        return self.traverse(root)
-    
-    def traverse(self, node):
-        result = []
-        if node:
-            result.extend(self.traverse(node.left))
-            result.append(node.val)
-            result.extend(self.traverse(node.right))
-        return result
+        res = []
+        def dfs(root):
+            if not root:
+                return
+            dfs(root.left)
+            res.append(root.val)
+            dfs(root.right)
+            return
+        dfs(root)
+        return res
