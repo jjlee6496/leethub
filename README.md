@@ -175,6 +175,7 @@ leetcode 자동 제출
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/jjlee6496/leethub/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
@@ -364,6 +365,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
+| [0890-lemonade-change](https://github.com/jjlee6496/leethub/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
