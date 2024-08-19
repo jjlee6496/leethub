@@ -11,16 +11,14 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        if not root:
-            return False
-        q = deque([(root, root.val)])
-        while q:
-            node, val = q.popleft()
-            if not node.left and not node.right and val==targetSum:
-                return True
-            if node.left:
-                q.append((node.left, node.left.val + val))
-            if node.right:
-                q.append((node.right, node.right.val + val))
-        return False
-        
+        def backtrack(root, curr):
+            if not root:
+                return False
+            
+            curr += root.val
+
+            if not root.left and not root.right:
+                return curr == targetSum
+            
+            return backtrack(root.left, curr) or backtrack(root.right, curr)
+        return backtrack(root, 0)
