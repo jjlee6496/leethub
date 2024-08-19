@@ -11,12 +11,12 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        if not root:
+        if root == None:
             return False
         
         targetSum -= root.val
 
-        if targetSum == 0 and not root.left and not root.right:
+        if targetSum == 0 and root.left == None and root.right == None:
             return True
         
         left = self.hasPathSum(root.left, targetSum)
