@@ -211,6 +211,7 @@ leetcode 자동 제출
 | [0029-divide-two-integers](https://github.com/jjlee6496/leethub/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -337,6 +338,7 @@ leetcode 자동 제출
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
+| [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
