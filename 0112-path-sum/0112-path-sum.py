@@ -11,14 +11,14 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        def backtrack(root, curr):
-            if not root:
-                return False
-            
-            curr += root.val
+        if not root:
+            return False
+        
+        targetSum -= root.val
 
-            if not root.left and not root.right:
-                return curr == targetSum
-            
-            return backtrack(root.left, curr) or backtrack(root.right, curr)
-        return backtrack(root, 0)
+        if targetSum == 0 and not root.left and not root.right:
+            return True
+        
+        left = self.hasPathSum(root.left, targetSum)
+        right = self.hasPathSum(root.right, targetSum)
+        return left or right
