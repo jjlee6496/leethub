@@ -4,21 +4,10 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        cache = {}
-        def helper(cnt, paste):
-            if cnt == n:
-                return 0
-            
-            if cnt > n:
-                return 1000
-
-            if (cnt, paste) in cache:
-                return cache[(cnt, paste)]
-
-            res1 = 1 + helper(cnt + paste, paste)
-            res2 = 2 + helper(cnt + cnt, cnt)
-            cache[(cnt, paste)] = min(res1, res2)
-            return cache[(cnt, paste)]
-        if n == 1:
-            return 0
-        return 1 + helper(1, 1)
+        dp = [1001] * (n + 1)
+        dp[1] = 0
+        for i in range(2, n + 1):
+            for j in range(1, 1 + (i // 2)):
+                if i % j == 0:
+                    dp[i] = min(dp[i], dp[j] + i // j)
+        return dp[n]
