@@ -174,6 +174,7 @@ leetcode 자동 제출
 | [0216-combination-sum-iii](https://github.com/jjlee6496/leethub/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/jjlee6496/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -371,6 +372,7 @@ leetcode 자동 제출
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/jjlee6496/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/jjlee6496/leethub/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
