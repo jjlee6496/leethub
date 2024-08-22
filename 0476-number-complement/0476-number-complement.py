@@ -4,4 +4,5 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        return int(''.join(['0' if b=='1' else '1' for b in bin(num)[2:]]), 2)
+        mask = (1 << num.bit_length()) - 1 # 1의 보수이므로 길이만큼 1을 채운 수를 구함
+        return ~num & mask # 토글을 거꾸로 한 것 -> 보수 구해짐
