@@ -212,6 +212,7 @@ leetcode 자동 제출
 | ------- |
 | [0029-divide-two-integers](https://github.com/jjlee6496/leethub/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/jjlee6496/leethub/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
@@ -288,6 +289,7 @@ leetcode 자동 제출
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
@@ -341,6 +343,7 @@ leetcode 자동 제출
 | ------- |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
@@ -470,6 +473,7 @@ leetcode 자동 제출
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 ## Merge Sort
