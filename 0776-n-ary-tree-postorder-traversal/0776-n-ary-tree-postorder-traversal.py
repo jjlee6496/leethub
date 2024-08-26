@@ -13,11 +13,12 @@ class Solution(object):
         :rtype: List[int]
         """
         res = []
-        def dfs(root):
-            if not root:
-                return
-            for c in root.children:
-                dfs(c)
-            res.append(root.val)
-        dfs(root)
-        return res
+        stack = []
+        if root:
+            stack.append(root)
+            while stack:
+                node = stack.pop()
+                res.append(node.val)
+                for c in node.children:
+                    stack.append(c)
+        return res[::-1]
