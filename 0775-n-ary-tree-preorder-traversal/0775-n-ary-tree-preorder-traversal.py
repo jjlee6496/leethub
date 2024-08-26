@@ -19,6 +19,5 @@ class Solution(object):
             while stack:
                 node = stack.pop()
                 res.append(node.val)
-                for c in node.children[::-1]:
-                    stack.append(c)
+                stack.extend(reversed(node.children))
         return res
