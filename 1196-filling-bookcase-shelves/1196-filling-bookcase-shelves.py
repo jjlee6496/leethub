@@ -6,17 +6,26 @@ class Solution(object):
         :rtype: int
         """
         mem = {}
-        def dfs(i, remain, height):
+        def dfs(i):
             if i == len(books):
-                return height
-            if (i, remain, height) in mem:
-                return mem[(i, remain, height)]
-            # 다음 칸에 넣기
-            res1 = height + dfs(i+1, shelfWidth - books[i][0], books[i][1])
-            res2 = float('inf')
-            if remain >= books[i][0]:
-                # 같은 칸에 넣기
-                res2 = dfs(i+1, remain - books[i][0], max(height, books[i][1]))
-            mem[(i, remain, height)] = min(res1, res2)
-            return mem[(i, remain, height)]
-        return dfs(0, shelfWidth, 0)
+                return 0
+            if i in mem:
+                return mem[i]
+            cur_width = shelfWidth
+            max_height = 0
+            res = float('inf')
+            for j in range(i, len(books)):
+                width, height = books[j]
+
+                if cur_width < width:
+                    break
+                
+                cur_width -= width
+                max_height = max(max_height, height)
+                res = min(
+                    res,
+                    dfs(j + 1) + max_height
+                )
+            mem[i] = res
+            return mem[i]
+        return dfs(0)
