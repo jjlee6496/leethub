@@ -185,6 +185,7 @@ leetcode 자동 제출
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1196-filling-bookcase-shelves](https://github.com/jjlee6496/leethub/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/jjlee6496/leethub/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
@@ -357,6 +358,7 @@ leetcode 자동 제출
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1196-filling-bookcase-shelves](https://github.com/jjlee6496/leethub/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jjlee6496/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
