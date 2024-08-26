@@ -182,6 +182,7 @@ leetcode 자동 제출
 | [0890-lemonade-change](https://github.com/jjlee6496/leethub/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
@@ -298,6 +299,7 @@ leetcode 자동 제출
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
@@ -450,6 +452,7 @@ leetcode 자동 제출
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/jjlee6496/leethub/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jjlee6496/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
@@ -467,6 +470,7 @@ leetcode 자동 제출
 | [0059-spiral-matrix-ii](https://github.com/jjlee6496/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jjlee6496/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
@@ -479,6 +483,7 @@ leetcode 자동 제출
 | [0112-path-sum](https://github.com/jjlee6496/leethub/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -523,4 +528,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
