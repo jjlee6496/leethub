@@ -5,26 +5,19 @@ class Solution(object):
         :type shelfWidth: int
         :rtype: int
         """
-        mem = {}
-        def dfs(i):
-            if i == len(books):
-                return 0
-            if i in mem:
-                return mem[i]
+        dp = [0] * (len(books) + 1)
+        for i in range(len(books)-1, -1, -1):
             cur_width = shelfWidth
             max_height = 0
-            mem[i] = float('inf')
+            dp[i] = float('inf')
             for j in range(i, len(books)):
                 width, height = books[j]
-
                 if cur_width < width:
                     break
-                
                 cur_width -= width
                 max_height = max(max_height, height)
-                mem[i] = min(
-                    mem[i],
-                    dfs(j + 1) + max_height
+                dp[i] = min(
+                    dp[i],
+                    dp[j+1] + max_height
                 )
-            return mem[i]
-        return dfs(0)
+        return dp[0]
