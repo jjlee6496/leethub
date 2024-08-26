@@ -171,6 +171,7 @@ leetcode 자동 제출
 | [0059-spiral-matrix-ii](https://github.com/jjlee6496/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jjlee6496/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/jjlee6496/leethub/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -352,6 +353,7 @@ leetcode 자동 제출
 | ------- |
 | [0118-pascals-triangle](https://github.com/jjlee6496/leethub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jjlee6496/leethub/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jjlee6496/leethub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
