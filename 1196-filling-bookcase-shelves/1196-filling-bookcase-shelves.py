@@ -13,7 +13,7 @@ class Solution(object):
                 return mem[i]
             cur_width = shelfWidth
             max_height = 0
-            res = float('inf')
+            mem[i] = float('inf')
             for j in range(i, len(books)):
                 width, height = books[j]
 
@@ -22,10 +22,9 @@ class Solution(object):
                 
                 cur_width -= width
                 max_height = max(max_height, height)
-                res = min(
-                    res,
+                mem[i] = min(
+                    mem[i],
                     dfs(j + 1) + max_height
                 )
-            mem[i] = res
             return mem[i]
         return dfs(0)
