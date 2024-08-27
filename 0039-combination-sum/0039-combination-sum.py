@@ -5,22 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
-        candidates.sort()
-        res = []
+        dp = [[] for _ in range(target+1)]
+        dp[0] = [[]]
 
-        def backtrack(i, curr, path):
-            if i >= len(candidates):
-                return
-            
-            if curr == target:
-                res.append(path[:])
-                return
-            
-            for j in range(i, len(candidates)):
-                if curr + candidates[j] > target:
-                    break
-                path.append(candidates[j])
-                backtrack(j, curr + candidates[j], path)
-                path.pop()
-        backtrack(0, 0, [])
-        return res
+        for num in candidates:
+            for i in range(num, target + 1):
+                for comb in dp[i - num]:
+                    dp[i].append(comb + [num])
+        return dp[target]
