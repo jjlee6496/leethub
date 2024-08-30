@@ -6,18 +6,11 @@ class Solution(object):
         :rtype: int
         """
         m, n = len(grid1), len(grid1[0])
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        def dfs(r, c):
-            if min(r, c) < 0 or r == m or c == n or grid2[r][c] == 0:
-                return True
-            is_sub = grid1[r][c] == 1
-            grid2[r][c] = 0
-            for dr, dc in directions:
-                is_sub &= dfs(r + dr, c + dc)
-            return is_sub
-        res = 0
-        for i in range(m):
-            for j in range(n):
-                if grid2[i][j] == 1 and dfs(i, j):
-                    res += 1                    
-        return res
+
+        def dfs(i, j):
+            if 0 <= i < m and 0 <= j < n and grid2[i][j] == 1:
+                grid2[i][j] = 0
+                return grid1[i][j] & dfs(i+1, j) & dfs(i-1, j) & dfs(i, j+1) & dfs(i, j-1)
+            return 1
+
+        return sum(dfs(i, j) for i in range(m) for j in range(n) if grid2[i][j])
