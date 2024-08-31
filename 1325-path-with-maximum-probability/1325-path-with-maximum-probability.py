@@ -15,7 +15,7 @@ class Solution(object):
             graph[v].append((u, succProb[i]))
 
         pq = [(-1.0, start_node)]
-        probs = {start_node:1.0}
+        probs = [0.0] * n
 
         while pq:
             curr_prob, curr_node = heapq.heappop(pq)
@@ -23,11 +23,11 @@ class Solution(object):
 
             if curr_node == end_node:
                 return curr_prob
-            if curr_prob < probs.get(curr_node, 0):
+            if curr_prob < probs[curr_node]:
                 continue
             for n_node, n_prob in graph[curr_node]:
                 new_prob = curr_prob * n_prob
-                if new_prob > probs.get(n_node, 0):
+                if new_prob > probs[n_node]:
                     probs[n_node] = new_prob
                     heapq.heappush(pq, (-new_prob, n_node))
         return 0.0
