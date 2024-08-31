@@ -8,22 +8,26 @@ class Solution(object):
         :type end_node: int
         :rtype: float
         """
-        adj = {i:[] for i in range(n)}
-        for i in range(len(edges)):
-            adj[edges[i][0]].append((edges[i][1], succProb[i])) # src: dst, weight
-            adj[edges[i][1]].append((edges[i][0], succProb[i])) # dst: src, weight
-        
-        res = {i:0.0 for i in range(n)}
-        res[start_node] = 1.0
-        pq = [(-1.0 ,start_node)] # maxHeap
+        graph = {i: [] for i in range(n)}
+        # undirected graph
+        for i, (u, v) in enumerate(edges):
+            graph[u].append((v, succProb[i]))
+            graph[v].append((u, succProb[i]))
+
+        pq = [(-1.0, start_node)]
+        probs = {start_node:1.0}
+
         while pq:
-            w1, n1 = heapq.heappop(pq)
-            w1 = -w1 # 원래대로
+            curr_prob, curr_node = heapq.heappop(pq)
+            curr_prob = -curr_prob
 
-            if res[n1] < w1:
-                res[n1] = w1
-
-            for n2, w2 in adj[n1]:
-                if w1 * w2 > res[n2]:
-                    heapq.heappush(pq, (-(w1 * w2), n2))
-        return res[end_node]
+            if curr_node == end_node:
+                return curr_prob
+            if curr_prob < probs.get(curr_node, 0):
+                continue
+            for n_node, n_prob in graph[curr_node]:
+                new_prob = curr_prob * n_prob
+                if new_prob > probs.get(n_node, 0):
+                    probs[n_node] = new_prob
+                    heapq.heappush(pq, (-new_prob, n_node))
+        return 0.0
