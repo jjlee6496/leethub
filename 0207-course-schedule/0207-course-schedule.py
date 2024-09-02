@@ -12,9 +12,9 @@ class Solution(object):
         visit = [0]*numCourses
 
         def dfs(node):
-            if visit[node] == 1:
+            if visit[node] == 1: # cycle
                 return True
-            if visit[node] == 2:
+            if visit[node] == 2: # re-visit
                 return False
             
             visit[node] = 1
