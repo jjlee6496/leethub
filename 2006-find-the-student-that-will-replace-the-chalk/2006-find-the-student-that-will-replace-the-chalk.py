@@ -6,9 +6,16 @@ class Solution(object):
         :rtype: int
         """
         k %= sum(chalk)
-        n = len(chalk)
-        ind = 0
-        while k > 0:
-            k -= chalk[ind]
-            ind = (ind + 1) % n
-        return ind if k == 0 else (ind - 1 + n) % n
+        prefix_sum = [0] * (len(chalk) + 1)
+        for i in range(1, len(chalk)+1):
+            prefix_sum[i] = prefix_sum[i - 1] + chalk[i - 1]
+        
+        l, r = 0, len(chalk)
+        while l < r:
+            mid = l + ((r - l) // 2)
+
+            if prefix_sum[mid] <= k:
+                l = mid + 1
+            else:
+                r = mid
+        return l - 1
