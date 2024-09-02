@@ -203,6 +203,7 @@ leetcode 자동 제출
 | [1741-sort-array-by-increasing-frequency](https://github.com/jjlee6496/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/jjlee6496/leethub/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jjlee6496/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -242,6 +243,7 @@ leetcode 자동 제출
 | [0374-guess-number-higher-or-lower](https://github.com/jjlee6496/leethub/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Interactive
 |  |
 | ------- |
@@ -381,6 +383,7 @@ leetcode 자동 제출
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -559,4 +562,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
