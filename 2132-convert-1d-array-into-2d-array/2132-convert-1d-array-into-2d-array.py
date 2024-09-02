@@ -6,14 +6,4 @@ class Solution(object):
         :type n: int
         :rtype: List[List[int]]
         """
-        if m * n < len(original):
-            return []
-        res = [[0]*n for _ in range(m)]
-        ind = 0
-        for i in range(m):
-            for j in range(n):
-                if ind == len(original):
-                    return []
-                res[i][j] = original[ind]
-                ind += 1
-        return res
+        return [original[i:i+n] for i in range(0, len(original) , n)] if m * n == len(original) else []
