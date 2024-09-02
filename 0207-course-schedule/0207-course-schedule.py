@@ -9,21 +9,20 @@ class Solution(object):
         for n1, n2 in prerequisites:
             adj[n1].append(n2)
         
-        path = set()
-        visit = set()
+        visit = [0]*numCourses
 
         def dfs(node):
-            if node in path:
+            if visit[node] == 1:
                 return True
-            if node in visit:
+            if visit[node] == 2:
                 return False
             
-            path.add(node)
+            visit[node] = 1
             for n2 in adj[node]:
                 if dfs(n2):
                     return True
-            path.remove(node)
-            visit.add(node)
+            visit[node] = 2
+
             return False
 
         for i in range(numCourses):
