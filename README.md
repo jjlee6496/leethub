@@ -339,6 +339,7 @@ leetcode 자동 제출
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jjlee6496/leethub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jjlee6496/leethub/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -562,12 +563,14 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2035-count-sub-islands](https://github.com/jjlee6496/leethub/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jjlee6496/leethub/tree/master/0207-course-schedule) |
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -581,4 +584,12 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jjlee6496/leethub/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
