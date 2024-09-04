@@ -181,6 +181,7 @@ leetcode 자동 제출
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/jjlee6496/leethub/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/jjlee6496/leethub/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
@@ -310,6 +311,7 @@ leetcode 자동 제출
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/jjlee6496/leethub/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
@@ -382,6 +384,7 @@ leetcode 자동 제출
 | [0059-spiral-matrix-ii](https://github.com/jjlee6496/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jjlee6496/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
+| [0906-walking-robot-simulation](https://github.com/jjlee6496/leethub/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
