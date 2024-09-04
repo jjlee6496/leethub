@@ -29,4 +29,4 @@ class Solution(object):
         for i in range(numCourses):
             if dfs(i):
                 return []
-        return order if order else []
+        return order
