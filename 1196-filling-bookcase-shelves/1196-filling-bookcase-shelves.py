@@ -5,12 +5,14 @@ class Solution(object):
         :type shelfWidth: int
         :rtype: int
         """
-        dp = [0] * (len(books) + 1)
-        for i in range(len(books)-1, -1, -1):
+        n = len(books)
+        dp = [float('inf')] * (n + 1)
+        dp[0] = 0 # 아무 책도 없음
+
+        for i in range(1, n + 1):
             cur_width = shelfWidth
             max_height = 0
-            dp[i] = float('inf')
-            for j in range(i, len(books)):
+            for j in range(i - 1, -1, -1):
                 width, height = books[j]
                 if cur_width < width:
                     break
@@ -18,6 +20,6 @@ class Solution(object):
                 max_height = max(max_height, height)
                 dp[i] = min(
                     dp[i],
-                    dp[j+1] + max_height
+                    dp[j] + max_height
                 )
-        return dp[0]
+        return dp[n]
