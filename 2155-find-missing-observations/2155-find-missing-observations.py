@@ -6,13 +6,11 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        sum_miss = (len(rolls) + n)*mean - sum(rolls)
-        if sum_miss > 6 * n or sum_miss<0:
+        m = len(rolls)
+        total = mean * (n + m)
+
+        miss = total - sum(rolls)
+        if miss < n or miss > 6 * n:
             return []
-        num, denom = divmod(sum_miss, n)
-        if num == 0:
-            return []
-        res = [num] * n
-        for i in range(denom):
-            res[i] += 1
-        return res
+        q, d = divmod(miss, n)
+        return [q + 1] * d + [q] * (n - d)
