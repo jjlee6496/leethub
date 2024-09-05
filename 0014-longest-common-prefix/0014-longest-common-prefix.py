@@ -6,6 +6,7 @@ class Solution(object):
         """
         if not strs:
             return ""
+        strs.sort()
         prefix = strs[0]
         for i in range(1, len(strs)):
             while strs[i][:len(prefix)] != prefix:
