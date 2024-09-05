@@ -7,10 +7,10 @@ class Solution(object):
         if not strs:
             return ""
         strs.sort()
-        prefix = strs[0]
-        for i in range(1, len(strs)):
-            while strs[i][:len(prefix)] != prefix:
-                prefix = prefix[:-1]
-                if not prefix:
-                    return ""
-        return prefix
+        f, l = strs[0], strs[-1]
+        res = ""
+        for i in range(len(f)):
+            if f[i] != l[i]:
+                return res
+            res += f[i]
+        return res
