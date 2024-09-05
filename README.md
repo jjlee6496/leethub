@@ -350,6 +350,7 @@ leetcode 자동 제출
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jjlee6496/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/jjlee6496/leethub/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
