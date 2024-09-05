@@ -350,6 +350,7 @@ leetcode 자동 제출
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/jjlee6496/leethub/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jjlee6496/leethub/tree/master/0592-fraction-addition-and-subtraction) |
@@ -426,6 +427,7 @@ leetcode 자동 제출
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 ## Recursion
 |  |
