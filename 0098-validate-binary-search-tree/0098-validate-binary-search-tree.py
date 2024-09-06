@@ -10,13 +10,16 @@ class Solution(object):
         :type root: TreeNode
         :rtype: bool
         """
-        def dfs(node, min_val, max_val):
-            if not node:
-                return True
-            
+        if not root:
+            return True
+        
+        stack = [(root, float('-inf'), float('inf'))]
+        while stack:
+            node, min_val, max_val = stack.pop()
             if node.val <= min_val or node.val >= max_val:
                 return False
-
-            return dfs(node.left, min_val, node.val) and dfs(node.right, node.val, max_val)
-        
-        return dfs(root, float('-inf'), float('inf'))
+            if node.left:
+                stack.append((node.left, min_val, node.val))
+            if node.right:
+                stack.append((node.right, node.val, max_val))
+        return True
