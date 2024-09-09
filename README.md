@@ -497,6 +497,7 @@ leetcode 자동 제출
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/jjlee6496/leethub/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/jjlee6496/leethub/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/jjlee6496/leethub/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
@@ -535,6 +536,7 @@ leetcode 자동 제출
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/jjlee6496/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/jjlee6496/leethub/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/jjlee6496/leethub/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/jjlee6496/leethub/tree/master/2035-count-sub-islands) |
 ## Divide and Conquer
 |  |
@@ -593,6 +595,7 @@ leetcode 자동 제출
 | [0207-course-schedule](https://github.com/jjlee6496/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jjlee6496/leethub/tree/master/0210-course-schedule-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
+| [1558-course-schedule-iv](https://github.com/jjlee6496/leethub/tree/master/1558-course-schedule-iv) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Shortest Path
 |  |
@@ -608,6 +611,7 @@ leetcode 자동 제출
 | ------- |
 | [0207-course-schedule](https://github.com/jjlee6496/leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jjlee6496/leethub/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/jjlee6496/leethub/tree/master/1558-course-schedule-iv) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
