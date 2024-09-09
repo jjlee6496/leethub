@@ -6,7 +6,7 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[bool]
         """
-        graph = [[0]*numCourses for _ in range(numCourses)]
+        graph = [[False]*numCourses for _ in range(numCourses)]
         for pre, crs in prerequisites:
             graph[pre][crs] = True
         
