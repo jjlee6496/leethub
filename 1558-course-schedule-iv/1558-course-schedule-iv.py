@@ -6,17 +6,26 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[bool]
         """
-        graph = [[False]*numCourses for _ in range(numCourses)]
+        graph = {i: [] for i in range(numCourses)}
         for pre, crs in prerequisites:
-            graph[pre][crs] = True
+            graph[pre].append(crs)
         
-        for k in range(numCourses):
-            for i in range(numCourses):
-                for j in range(numCourses):
-                    if graph[i][k] and graph[k][j]:
-                        graph[i][j] = True
+        mem = {}
+        def dfs(node):
+
+            if node in mem:
+                return mem[node]
+            
+            cset = set()
+            for nei in graph[node]:
+                cset.update(dfs(nei))
+            cset.add(node)
+            mem[node] = cset
+            return mem[node]
+        for i in range(numCourses):
+            dfs(i)
         
         res = []
         for (u, v) in queries:
-            res.append(graph[u][v])
+            res.append(v in mem[u])
         return res
