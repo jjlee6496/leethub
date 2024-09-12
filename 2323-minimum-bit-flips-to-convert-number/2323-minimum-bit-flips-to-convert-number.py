@@ -8,6 +8,6 @@ class Solution(object):
         n = start ^ goal
         res = 0
         while n:
-            res += n & 1
-            n >>= 1
+            n = n & (n - 1)
+            res += 1
         return res
