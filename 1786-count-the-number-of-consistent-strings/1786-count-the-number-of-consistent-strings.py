@@ -6,10 +6,9 @@ class Solution(object):
         :rtype: int
         """
         dic = set(allowed)
-        res = 0
+        res = len(words)
         for word in words:
             if set(word) - dic:
-                continue
-            res += 1
+                res -= 1
         return res
             
