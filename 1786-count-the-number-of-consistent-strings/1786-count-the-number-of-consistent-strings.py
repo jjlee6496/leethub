@@ -5,10 +5,16 @@ class Solution(object):
         :type words: List[str]
         :rtype: int
         """
-        dic = set(allowed)
+        bit_mask = 0
+        for a in allowed:
+            bit = 1 << (ord(a) - ord('a'))
+            bit_mask |= bit
+        
         res = len(words)
         for word in words:
-            if set(word) - dic:
-                res -= 1
+            for w in word:
+                if not bit_mask & (1 << ord(w) - ord('a')):
+                    res -= 1
+                    break
         return res
             
