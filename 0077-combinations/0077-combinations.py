@@ -11,7 +11,9 @@ class Solution(object):
                 res.append(curr[:])
                 return
             
-            for j in range(i, n):
-                dfs(j + 1, curr + [j + 1])
-        dfs(0, [])
+            for j in range(i, n + 1):
+                curr.append(j)
+                dfs(j + 1, curr)
+                curr.pop()
+        dfs(1, [])
         return res
