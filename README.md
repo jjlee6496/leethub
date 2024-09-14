@@ -195,6 +195,7 @@ leetcode 자동 제출
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jjlee6496/leethub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -264,6 +265,7 @@ leetcode 자동 제출
 | [0476-number-complement](https://github.com/jjlee6496/leethub/tree/master/0476-number-complement) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1054-complement-of-base-10-integer](https://github.com/jjlee6496/leethub/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jjlee6496/leethub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
@@ -613,6 +615,7 @@ leetcode 자동 제출
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/jjlee6496/leethub/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Topological Sort
