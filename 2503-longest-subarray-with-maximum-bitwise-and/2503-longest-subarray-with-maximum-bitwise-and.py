@@ -10,7 +10,8 @@ class Solution(object):
         for num in nums:
             if num == max_num:
                 curr += 1
-                res = max(res, curr)
             else:
+                res = max(res, curr)
                 curr = 0
+        res = max(res, curr)
         return res
