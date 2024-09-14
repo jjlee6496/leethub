@@ -218,6 +218,7 @@ leetcode 자동 제출
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jjlee6496/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -268,6 +269,7 @@ leetcode 자동 제출
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jjlee6496/leethub/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jjlee6496/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Tree
 |  |
 | ------- |
@@ -636,4 +638,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jjlee6496/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
