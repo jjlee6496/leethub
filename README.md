@@ -177,6 +177,7 @@ leetcode 자동 제출
 | [0322-coin-change](https://github.com/jjlee6496/leethub/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/jjlee6496/leethub/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/jjlee6496/leethub/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/jjlee6496/leethub/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jjlee6496/leethub/tree/master/0682-baseball-game) |
@@ -232,6 +233,7 @@ leetcode 자동 제출
 | [0241-different-ways-to-add-parentheses](https://github.com/jjlee6496/leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/jjlee6496/leethub/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jjlee6496/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/jjlee6496/leethub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/jjlee6496/leethub/tree/master/0870-magic-squares-in-grid) |
@@ -356,6 +358,7 @@ leetcode 자동 제출
 | ------- |
 | [0179-largest-number](https://github.com/jjlee6496/leethub/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/jjlee6496/leethub/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
@@ -375,6 +378,7 @@ leetcode 자동 제출
 | [0179-largest-number](https://github.com/jjlee6496/leethub/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jjlee6496/leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/jjlee6496/leethub/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jjlee6496/leethub/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/jjlee6496/leethub/tree/master/0678-valid-parenthesis-string) |
