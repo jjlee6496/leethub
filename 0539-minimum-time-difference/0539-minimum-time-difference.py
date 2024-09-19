@@ -4,16 +4,30 @@ class Solution(object):
         :type timePoints: List[str]
         :rtype: int
         """
-        timePoints.sort()
-        
+        # [0, 1439] 범위로 정해져 있으므로 bucket sort 사용 가능
         def t2m(time):
             h, m = map(int, time.split(':'))
             return h * 60 + m
         
-        res = 1440 # 24 * 60이 최대 분
-        for i in range(1, len(timePoints)):
-            t1, t2 = t2m(timePoints[i - 1]), t2m(timePoints[i])
-            res = min(res, t2 - t1)
-        res = min(res, 1440 - t2m(timePoints[-1]) + t2m(timePoints[0]))
+        times = [False] * 1440
+        first_time, last_time = 1440, 0
+        for time in timePoints:
+            m = t2m(time)
+            if times[m]:
+                return 0
+            times[m] = True
+            first_time = min(first_time, m)
+            last_time = max(last_time, m)
+
+        res = 1440 - last_time + first_time
+        prev = first_time
+        for i in range(first_time + 1, last_time + 1):
+            if times[i]:
+                diff = i - prev
+                res = min(res, diff)
+                prev = i
         return res
+
+        
+
 
