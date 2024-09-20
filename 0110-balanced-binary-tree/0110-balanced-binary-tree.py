@@ -1,21 +1,22 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
+
+class Solution:
     def isBalanced(self, root):
-        """
-        :type root: TreeNode
-        :rtype: bool
-        """
         def valid(root):
             if not root:
-                return 0, True
-            l, l_b = valid(root.left)
-            r, r_b = valid(root.right)
-            
-            return 1 + max(l, r), l_b and r_b and abs(l - r) <= 1
-        
-        return valid(root)[1]
+                return 0
+            l = valid(root.left)
+            if l == -1:
+                return -1
+            r = valid(root.right)
+            if r == -1:
+                return -1
+            if abs(l - r) > 1:
+                return -1
+            return 1 + max(l, r)
+        return valid(root) != -1
