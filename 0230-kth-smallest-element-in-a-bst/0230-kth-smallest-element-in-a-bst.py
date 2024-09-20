@@ -12,12 +12,15 @@ class Solution(object):
         :rtype: int
         """
         res = []
-        def dfs(root):
-            if not root:
+        def dfs(node):
+            if not node:
                 return
-            dfs(root.left)
-            res.append(root.val)
-            dfs(root.right)
-            return
+            left = dfs(node.left)
+            if left:
+                res.append(left)
+            res.append(node.val)
+            right = dfs(node.right)
+            if right:
+                res.append(right)
         dfs(root)
         return res[k - 1]
