@@ -11,14 +11,10 @@ class Solution(object):
         :type q: TreeNode
         :rtype: bool
         """
-        return self.traverse(p)==self.traverse(q)
-        
-    def traverse(self, node):
-        if not node:
-            return [None]
-        
-        result = [node.val]
-        result.extend(self.traverse(node.left))
-        result.extend(self.traverse(node.right))
-
-        return result
+        if not p and not q:
+            return True
+            
+        if p and q and p.val == q.val: 
+            return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        else:
+            return False
