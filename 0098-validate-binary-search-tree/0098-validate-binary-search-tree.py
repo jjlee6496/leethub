@@ -10,12 +10,16 @@ class Solution(object):
         :type root: TreeNode
         :rtype: bool
         """
-        def dfs(root, low=float('-inf'), high=float('inf')):
-            if not root:
-                return True
+        stack = [(root, float('-inf'), float('inf'))]
+        while stack:
+            node, low, high = stack.pop()
+
+            if not node:
+                continue
             
-            if low >= root.val or high <=  root.val:
+            if node.val <= low or node.val >= high:
                 return False
-            return dfs(root.left, low, root.val) and dfs(root.right, root.val, high)
-        
-        return dfs(root)
+            
+            stack.append((node.right, node.val, high))
+            stack.append((node.left, low, node.val))
+        return True
