@@ -11,16 +11,16 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = []
+        self.res = None
+        self.k = k
         def dfs(node):
-            if not node:
+            if not node or self.res:
                 return
-            left = dfs(node.left)
-            if left:
-                res.append(left)
-            res.append(node.val)
-            right = dfs(node.right)
-            if right:
-                res.append(right)
+            
+            dfs(node.left)
+            self.k -= 1
+            if self.k == 0:
+                self.res = node.val
+            dfs(node.right)
         dfs(root)
-        return res[k - 1]
+        return self.res
