@@ -472,6 +472,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/jjlee6496/leethub/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 ## Recursion
 |  |
@@ -526,6 +527,7 @@ leetcode 자동 제출
 | [0210-course-schedule-ii](https://github.com/jjlee6496/leethub/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jjlee6496/leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/jjlee6496/leethub/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jjlee6496/leethub/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/jjlee6496/leethub/tree/master/0774-maximum-depth-of-n-ary-tree) |
