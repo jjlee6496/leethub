@@ -333,6 +333,7 @@ leetcode 자동 제출
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jjlee6496/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/jjlee6496/leethub/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
@@ -383,6 +384,7 @@ leetcode 자동 제출
 | [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/jjlee6496/leethub/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/jjlee6496/leethub/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/jjlee6496/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jjlee6496/leethub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jjlee6496/leethub/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/jjlee6496/leethub/tree/master/0539-minimum-time-difference) |
@@ -472,6 +474,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jjlee6496/leethub/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/jjlee6496/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/jjlee6496/leethub/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/jjlee6496/leethub/tree/master/0648-replace-words) |
 ## Recursion
@@ -621,6 +624,7 @@ leetcode 자동 제출
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jjlee6496/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
