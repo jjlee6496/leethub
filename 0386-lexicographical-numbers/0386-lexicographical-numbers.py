@@ -4,6 +4,14 @@ class Solution(object):
         :type n: int
         :rtype: List[int]
         """
-        nums = [str(i) for i in range(1, n+1)]
-        return list(map(int, sorted(nums)))
-        
+        res = []
+        i = 1
+        while len(res) < n:
+            res.append(i)
+            if 10 * i <= n:
+                i *= 10
+            else:
+                while i == n or i % 10 == 9:
+                    i //= 10
+                i += 1
+        return res
