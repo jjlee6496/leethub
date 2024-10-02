@@ -5,13 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        l = 0
-        s = set()
-        for r in range(len(nums)):
-            if r - l > k:
-                s.remove(nums[l])
-                l += 1
-            if nums[r] in s:
+
+        idx_map = {}
+        for idx, num in enumerate(nums):
+            if num in idx_map and idx - idx_map[num] <= k:
                 return True
-            s.add(nums[r])
+            idx_map[num] = idx
         return False
