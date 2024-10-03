@@ -6,14 +6,13 @@ class Solution(object):
         :type threshold: int
         :rtype: int
         """
-        res = 0 
-        L, curr = 0, 0
-        for R in range(len(arr)):
-            curr += arr[R]
-            if R - L + 1 > k:
-                curr -= arr[L]
-                L += 1
-            if R - L + 1 == k and curr >= threshold * k:
+        res = 0
+        n = len(arr)
+        curr = sum(arr[:k])
+        if curr >= threshold * k:
+            res += 1
+        for i in range(n - k):
+            curr += (arr[i + k] - arr[i])
+            if curr >= threshold * k:
                 res += 1
-            
         return res
