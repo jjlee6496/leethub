@@ -4,7 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        while s.find('AB') >= 0 or s.find('CD') >= 0:
-            s = s.replace('AB', '')
-            s = s.replace('CD', '')
-        return len(s)
+        stack = []
+        for char in s:
+            if (stack and char == 'B' and stack[-1] == 'A') or (stack and char == 'D' and stack[-1] == 'C'):
+                stack.pop()
+            else:
+                stack.append(char)
+        return len(stack)
