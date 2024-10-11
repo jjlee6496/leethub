@@ -14,4 +14,4 @@ class Solution(object):
                     stack -= 1
                 else:
                     unbalanced += 1
-        return (unbalanced + 1) // 2
+        return (unbalanced + 1) >> 1
