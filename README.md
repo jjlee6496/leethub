@@ -229,6 +229,7 @@ leetcode 자동 제출
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jjlee6496/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -487,6 +488,7 @@ leetcode 자동 제출
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jjlee6496/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -622,6 +624,7 @@ leetcode 자동 제출
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
