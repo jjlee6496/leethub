@@ -190,6 +190,7 @@ leetcode 자동 제출
 | [0921-spiral-matrix-iii](https://github.com/jjlee6496/leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/jjlee6496/leethub/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/jjlee6496/leethub/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/jjlee6496/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -539,6 +540,7 @@ leetcode 자동 제출
 | [0775-n-ary-tree-preorder-traversal](https://github.com/jjlee6496/leethub/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jjlee6496/leethub/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jjlee6496/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/jjlee6496/leethub/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jjlee6496/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -741,4 +743,8 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/jjlee6496/leethub/tree/master/0729-my-calendar-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/jjlee6496/leethub/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
