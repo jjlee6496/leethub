@@ -233,6 +233,7 @@ leetcode 자동 제출
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -455,6 +456,7 @@ leetcode 자동 제출
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jjlee6496/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -609,6 +611,7 @@ leetcode 자동 제출
 | [2067-maximum-number-of-points-with-cost](https://github.com/jjlee6496/leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
