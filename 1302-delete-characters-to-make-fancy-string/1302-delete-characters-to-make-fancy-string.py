@@ -5,12 +5,12 @@ class Solution(object):
         :rtype: str
         """
         cnt = 1
-        res = ''
+        res = []
         for c in s:
             if res and res[-1] == c:
                 cnt += 1
             else:
                 cnt = 1
             if cnt < 3:
-                res += c
-        return res
+                res.append(c)
+        return ''.join(res)
