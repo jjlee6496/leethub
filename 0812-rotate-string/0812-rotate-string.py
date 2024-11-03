@@ -5,11 +5,7 @@ class Solution(object):
         :type goal: str
         :rtype: bool
         """
-        n = len(goal)
-        if len(s) > n:
-            return False
-        s = s * 2
-        for i in range(len(s) - n):
-            if s[i:i+n] == goal:
+        for i in range(len(s)):
+            if (s[i:] + s[:i]) == goal:
                 return True
         return False
