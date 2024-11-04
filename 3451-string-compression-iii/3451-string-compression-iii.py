@@ -4,15 +4,17 @@ class Solution(object):
         :type word: str
         :rtype: str
         """
-        cnt = 1
-        i = 0
+        cnt = 0
+        curr = word[0]
         res = []
-        while i < len(word):
-            if i > 0 and word[i] == word[i - 1] and cnt < 9:
+        for w in word:
+            if w == curr and cnt < 9:
                 cnt += 1
-            elif (i > 0 and word[i] != word[i - 1]) or cnt == 9:
-                res.append(str(cnt) + word[i - 1])
+            else:
+                res.append(str(cnt))
+                res.append(curr)
                 cnt = 1
-            i += 1
-        res.append(str(cnt) + word[i - 1])
+                curr = w
+        res.append(str(cnt))
+        res.append(curr)
         return ''.join(res)
