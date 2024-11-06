@@ -438,6 +438,7 @@ leetcode 자동 제출
 | [2580-circular-sentence](https://github.com/jjlee6496/leethub/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jjlee6496/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jjlee6496/leethub/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/jjlee6496/leethub/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
