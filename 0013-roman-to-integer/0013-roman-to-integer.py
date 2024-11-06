@@ -1,10 +1,5 @@
 class Solution(object):
-    def romanToInt(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        dic = {
+    dic = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -14,10 +9,16 @@ class Solution(object):
             'M': 1000,
         }
 
+    def romanToInt(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+
         res = 0
         prev = 0
         for c in reversed(s):
-            curr = dic[c]
+            curr = self.dic[c]
             if curr < prev:
                 res -= curr
             else:
