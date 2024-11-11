@@ -234,6 +234,7 @@ leetcode 자동 제출
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jjlee6496/leethub/tree/master/3291-find-if-array-can-be-sorted) |
@@ -260,6 +261,7 @@ leetcode 자동 제출
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/jjlee6496/leethub/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
@@ -275,6 +277,7 @@ leetcode 자동 제출
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 ## Interactive
 |  |
 | ------- |
@@ -518,6 +521,7 @@ leetcode 자동 제출
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -741,6 +745,7 @@ leetcode 자동 제출
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
