@@ -10,7 +10,7 @@ class Solution(object):
             nums[i] ^= prev
             prev = nums[i]
         
-        n = 2 ** maximumBit - 1
+        n = (1 << maximumBit) - 1
         ans = []
         for num in reversed(nums):
             ans.append(n ^ num)
