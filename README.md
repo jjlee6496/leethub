@@ -723,6 +723,7 @@ leetcode 자동 제출
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/jjlee6496/leethub/tree/master/1558-course-schedule-iv) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/jjlee6496/leethub/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3189-find-champion-ii](https://github.com/jjlee6496/leethub/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
