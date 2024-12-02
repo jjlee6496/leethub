@@ -397,6 +397,7 @@ leetcode 자동 제출
 | [0125-valid-palindrome](https://github.com/jjlee6496/leethub/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jjlee6496/leethub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jjlee6496/leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -442,6 +443,7 @@ leetcode 자동 제출
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jjlee6496/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jjlee6496/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1532-reformat-the-string](https://github.com/jjlee6496/leethub/tree/master/1532-reformat-the-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -778,4 +780,5 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jjlee6496/leethub/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
