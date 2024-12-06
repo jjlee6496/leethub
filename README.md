@@ -226,6 +226,7 @@ leetcode 자동 제출
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/jjlee6496/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jjlee6496/leethub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jjlee6496/leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -404,6 +405,7 @@ leetcode 자동 제출
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/jjlee6496/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -456,6 +458,7 @@ leetcode 자동 제출
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/jjlee6496/leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/jjlee6496/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jjlee6496/leethub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jjlee6496/leethub/tree/master/2580-circular-sentence) |
@@ -502,6 +505,7 @@ leetcode 자동 제출
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jjlee6496/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/jjlee6496/leethub/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
