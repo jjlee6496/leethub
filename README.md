@@ -455,6 +455,7 @@ leetcode 자동 제출
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jjlee6496/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jjlee6496/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1532-reformat-the-string](https://github.com/jjlee6496/leethub/tree/master/1532-reformat-the-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/jjlee6496/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -752,6 +753,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/jjlee6496/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/jjlee6496/leethub/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/jjlee6496/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
