@@ -4,9 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        res = 0
-        for i in range(1, len(s)):
-            l, r = s[:i].count('0'), s[i:].count('1')
-            print(l, r)
-            res = max(res, l + r)
-        return res
+        curr = s[:1].count('0') + s[1:].count('1')
+        max_s = curr
+        for i in range(1, len(s) - 1):
+            if s[i] == '0':
+                curr += 1
+            else:
+                curr -= 1
+            if curr > max_s:
+                max_s = curr
+
+        return max_s
