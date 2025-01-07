@@ -208,6 +208,7 @@ leetcode 자동 제출
 | [1468-check-if-n-and-its-double-exist](https://github.com/jjlee6496/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/jjlee6496/leethub/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jjlee6496/leethub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jjlee6496/leethub/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -454,6 +455,7 @@ leetcode 자동 제출
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jjlee6496/leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jjlee6496/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jjlee6496/leethub/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/jjlee6496/leethub/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/jjlee6496/leethub/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jjlee6496/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -801,5 +803,6 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jjlee6496/leethub/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/jjlee6496/leethub/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jjlee6496/leethub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
