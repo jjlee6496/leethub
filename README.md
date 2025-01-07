@@ -239,6 +239,7 @@ leetcode 자동 제출
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jjlee6496/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jjlee6496/leethub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
@@ -470,6 +471,7 @@ leetcode 자동 제출
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jjlee6496/leethub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/jjlee6496/leethub/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jjlee6496/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jjlee6496/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jjlee6496/leethub/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -759,6 +761,7 @@ leetcode 자동 제출
 | [1694-make-sum-divisible-by-p](https://github.com/jjlee6496/leethub/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/jjlee6496/leethub/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jjlee6496/leethub/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/jjlee6496/leethub/tree/master/3427-special-array-ii) |
 ## Topological Sort
 |  |
