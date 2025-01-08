@@ -12,9 +12,7 @@ class Solution(object):
         return res
 
     def is_true(self, word1, word2):
-        n, m = len(word1), len(word2)
-        if n > m:
-            return 0
+
         if word2.startswith(word1) and word2.endswith(word1):
             return 1
         
