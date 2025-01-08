@@ -15,11 +15,7 @@ class Solution(object):
         n, m = len(word1), len(word2)
         if n > m:
             return 0
-        
-        if word1 == word2:
-            return 1
-        
-        if word1 == word2[:n] and word1 == word2[-n:]:
+        if word2.startswith(word1) and word2.endswith(word1):
             return 1
         
         return 0
