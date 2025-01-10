@@ -7,6 +7,6 @@ class Solution(object):
         """
         res = 0
         for word in words:
-            if word.startswith(pref):
+            if word[:len(pref)] == pref:
                 res += 1
         return res
