@@ -5,8 +5,4 @@ class Solution(object):
         :type pref: str
         :rtype: int
         """
-        res = 0
-        for word in words:
-            if word[:len(pref)] == pref:
-                res += 1
-        return res
+        return sum(x[:len(pref)] == pref for x in words)
