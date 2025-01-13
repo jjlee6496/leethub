@@ -4,10 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        n = len(s)
+        ans = 0
         cnt = Counter(s)
-        for l in cnt:
-            while cnt[l] > 2:
-                cnt[l] -= 2
-                n -= 2
-        return n
+        
+        for v in cnt.values():
+            if v % 2:
+                ans += 1
+            else:
+                ans += 2
+        return ans
