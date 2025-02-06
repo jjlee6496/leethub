@@ -202,6 +202,7 @@ leetcode 자동 제출
 | [1325-path-with-maximum-probability](https://github.com/jjlee6496/leethub/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/jjlee6496/leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1364-tuple-with-same-product](https://github.com/jjlee6496/leethub/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jjlee6496/leethub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
@@ -392,6 +393,7 @@ leetcode 자동 제출
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/jjlee6496/leethub/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/jjlee6496/leethub/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jjlee6496/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jjlee6496/leethub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -726,6 +728,7 @@ leetcode 자동 제출
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jjlee6496/leethub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/jjlee6496/leethub/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/jjlee6496/leethub/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/jjlee6496/leethub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jjlee6496/leethub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
