@@ -5,18 +5,28 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[int]
         """
-        stat = {}
-        cnt = Counter()
+        balls = {}
+        colors = {}
+        distinct = 0
         res = []
+
+        for ball, new_color in queries:
+            if ball in balls:
+                old_color = balls[ball]
+                colors[old_color] -= 1
+
+                if colors[old_color] == 0:
+                    del colors[old_color]
+                    distinct -= 1
+
+            balls[ball] = new_color
+
+            if new_color in colors:
+                colors[new_color] += 1
+
+            else:
+                colors[new_color] = 1
+                distinct += 1
+            res.append(distinct)
         
-        for ball, color in queries:
-            if ball in stat:
-                old = stat[ball]
-                cnt[old] -= 1
-                if cnt[old] == 0:
-                    del cnt[old]
-            
-            stat[ball] = color
-            cnt[color] += 1
-            res.append(len(cnt))
         return res
