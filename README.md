@@ -254,6 +254,7 @@ leetcode 자동 제출
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jjlee6496/leethub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jjlee6496/leethub/tree/master/3427-special-array-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jjlee6496/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jjlee6496/leethub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -409,6 +410,7 @@ leetcode 자동 제출
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jjlee6496/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jjlee6496/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -536,6 +538,7 @@ leetcode 자동 제출
 | [2645-pass-the-pillow](https://github.com/jjlee6496/leethub/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jjlee6496/leethub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jjlee6496/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jjlee6496/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jjlee6496/leethub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Combinatorics
 |  |
