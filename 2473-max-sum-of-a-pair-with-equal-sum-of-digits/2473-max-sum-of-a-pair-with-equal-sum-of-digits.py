@@ -10,7 +10,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        dic = defaultdict(int)
+        dic = {}
         res = -1
         for num in nums:
             s = self.sum2(num)
