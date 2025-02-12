@@ -10,14 +10,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        dic = defaultdict(list)
-        for i in range(len(nums)):
-            num = self.sum2(nums[i])
-            heapq.heappush(dic[num], nums[i])
-        
+        dic = defaultdict(int)
         res = -1
-        for v in dic.values():
-            if len(v) > 1:
-                num1, num2 = heapq.nlargest(2, v)
-                res = max(res, num1 + num2)
+        for num in nums:
+            s = self.sum2(num)
+            
+            if s in dic:
+                if dic[s] + num > res:
+                    res = dic[s] + num
+                if dic[s] < num:
+                    dic[s] = num
+            else:
+                dic[s] = num
         return res
