@@ -480,6 +480,7 @@ leetcode 자동 제출
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jjlee6496/leethub/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jjlee6496/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jjlee6496/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -533,6 +534,7 @@ leetcode 자동 제출
 | [1803-average-waiting-time](https://github.com/jjlee6496/leethub/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jjlee6496/leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jjlee6496/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jjlee6496/leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
@@ -615,6 +617,7 @@ leetcode 자동 제출
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jjlee6496/leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/jjlee6496/leethub/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/jjlee6496/leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/jjlee6496/leethub/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jjlee6496/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/jjlee6496/leethub/tree/master/3447-clear-digits) |
