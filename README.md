@@ -256,6 +256,7 @@ leetcode 자동 제출
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jjlee6496/leethub/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jjlee6496/leethub/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/jjlee6496/leethub/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/jjlee6496/leethub/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jjlee6496/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jjlee6496/leethub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jjlee6496/leethub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
