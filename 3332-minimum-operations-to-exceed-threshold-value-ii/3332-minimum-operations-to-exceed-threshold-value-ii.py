@@ -10,7 +10,7 @@ class Solution(object):
         while len(nums) > 1:
             x = heapq.heappop(nums)
             y = heapq.heappop(nums)
-            if x >= k and y >= k:
+            if x >= k:
                 return res
             heapq.heappush(nums, 2 * x + y)
 
