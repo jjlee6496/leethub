@@ -7,11 +7,9 @@ class Solution(object):
         """
         res = 0
         heapq.heapify(nums)
-        while len(nums) > 1:
+        while len(nums) > 1 and nums[0] < k:
             x = heapq.heappop(nums)
             y = heapq.heappop(nums)
-            if x >= k:
-                return res
             heapq.heappush(nums, 2 * x + y)
 
             res += 1
