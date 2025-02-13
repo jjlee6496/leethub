@@ -5,12 +5,9 @@ class Solution(object):
         :type part: str
         :rtype: str
         """
-        stack = []
-        n = len(part)
-        for c in s:
-            stack.append(c)
-            if len(stack) >= n:
-                while ''.join(stack[-n:]) == part:
-                    for _ in range(n):
-                        stack.pop()
-        return ''.join(stack)
+        pos = s.find(part)
+        while pos != -1:
+            s = s[0:pos] + s[pos+len(part):]
+            pos = s.find(part)
+
+        return s
