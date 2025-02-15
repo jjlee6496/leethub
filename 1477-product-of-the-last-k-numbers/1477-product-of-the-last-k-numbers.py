@@ -20,7 +20,7 @@ class ProductOfNumbers(object):
         """
         if k >= len(self.mem):
             return 0
-        return self.mem[-1] / self.mem[-k - 1]
+        return self.mem[-1] // self.mem[-1 - k]
 
 # Your ProductOfNumbers object will be instantiated and called as such:
 # obj = ProductOfNumbers()
