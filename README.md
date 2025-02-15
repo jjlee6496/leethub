@@ -284,6 +284,7 @@ leetcode 자동 제출
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/jjlee6496/leethub/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jjlee6496/leethub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jjlee6496/leethub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -634,6 +635,7 @@ leetcode 자동 제출
 | [0113-path-sum-ii](https://github.com/jjlee6496/leethub/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/jjlee6496/leethub/tree/master/0216-combination-sum-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jjlee6496/leethub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bitmask
 |  |
 | ------- |
