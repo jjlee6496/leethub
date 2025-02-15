@@ -208,6 +208,7 @@ leetcode 자동 제출
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jjlee6496/leethub/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jjlee6496/leethub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jjlee6496/leethub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/jjlee6496/leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/jjlee6496/leethub/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/jjlee6496/leethub/tree/master/1524-string-matching-in-an-array) |
@@ -276,6 +277,7 @@ leetcode 자동 제출
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jjlee6496/leethub/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jjlee6496/leethub/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jjlee6496/leethub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/jjlee6496/leethub/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
@@ -768,10 +770,12 @@ leetcode 자동 제출
 | [0208-implement-trie-prefix-tree](https://github.com/jjlee6496/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0729-my-calendar-i](https://github.com/jjlee6496/leethub/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jjlee6496/leethub/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jjlee6496/leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jjlee6496/leethub/tree/master/1477-product-of-the-last-k-numbers) |
 ## Union Find
 |  |
 | ------- |
@@ -796,6 +800,7 @@ leetcode 자동 제출
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/jjlee6496/leethub/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jjlee6496/leethub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/jjlee6496/leethub/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/jjlee6496/leethub/tree/master/1940-maximum-xor-for-each-query) |
