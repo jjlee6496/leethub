@@ -243,6 +243,7 @@ leetcode 자동 제출
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jjlee6496/leethub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/jjlee6496/leethub/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jjlee6496/leethub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2551-apply-operations-to-an-array](https://github.com/jjlee6496/leethub/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jjlee6496/leethub/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -432,6 +433,7 @@ leetcode 자동 제출
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/jjlee6496/leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jjlee6496/leethub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jjlee6496/leethub/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/jjlee6496/leethub/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -546,6 +548,7 @@ leetcode 자동 제출
 | [2299-merge-nodes-in-between-zeros](https://github.com/jjlee6496/leethub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/jjlee6496/leethub/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/jjlee6496/leethub/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jjlee6496/leethub/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jjlee6496/leethub/tree/master/2800-minimum-string-length-after-removing-substrings) |
