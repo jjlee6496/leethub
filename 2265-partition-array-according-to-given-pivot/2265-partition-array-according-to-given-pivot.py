@@ -6,12 +6,9 @@ class Solution(object):
         :rtype: List[int]
         """
         left, right = [], []
-        cnt = 0
         for num in nums:
             if num < pivot:
                 left.append(num)
-            elif num == pivot:
-                cnt += 1
-            else:
+            elif num > pivot:
                 right.append(num)
-        return left + [pivot]*cnt + right
+        return left + [pivot]*(len(nums) - len(right) - len(left)) + right
