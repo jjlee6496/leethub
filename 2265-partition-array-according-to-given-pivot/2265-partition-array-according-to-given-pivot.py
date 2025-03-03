@@ -5,12 +5,13 @@ class Solution(object):
         :type pivot: int
         :rtype: List[int]
         """
-        left, mid, right = [], [], []
+        left, right = [], []
+        cnt = 0
         for num in nums:
             if num < pivot:
                 left.append(num)
             elif num == pivot:
-                mid.append(num)
+                cnt += 1
             else:
                 right.append(num)
-        return left + mid + right
+        return left + [pivot]*cnt + right
