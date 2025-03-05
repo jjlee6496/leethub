@@ -4,16 +4,10 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        def dfs(i, cur):
-            if cur == n:
-                return True
-            if cur > n or i > 14:
-                return False
-            
-            if dfs(i + 1, cur + 3 ** i):
-                return True
-            
-            # skip
-            return dfs(i + 1, cur)
-        
-        return dfs(0, 0)
+        x = 14 # log_3 10^7 = 14.6xx
+        while x >= 0:
+            if n >= 3 ** x:
+                n -= 3 ** x
+            x -= 1
+        return n == 0
+
