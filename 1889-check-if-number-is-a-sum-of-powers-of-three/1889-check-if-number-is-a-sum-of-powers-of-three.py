@@ -4,20 +4,16 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        
-        
-        def dfs(i, curr):
-            if curr == 0:
+        def dfs(i, cur):
+            if cur == n:
                 return True
-            
-            if curr < 0 or i > 15:
+            if cur > n or i > 15:
                 return False
             
-            if dfs(i + 1, curr - 3 ** i):
+            if dfs(i + 1, cur + 3 ** i):
                 return True
             
-            return dfs(i + 1, curr)
-        return dfs(0, n)
-            
-
-            
+            # skip
+            return dfs(i + 1, cur)
+        
+        return dfs(0, 0)
