@@ -7,7 +7,7 @@ class Solution(object):
         def dfs(i, cur):
             if cur == n:
                 return True
-            if cur > n or i > 15:
+            if cur > n or i > 14:
                 return False
             
             if dfs(i + 1, cur + 3 ** i):
