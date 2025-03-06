@@ -254,6 +254,7 @@ leetcode 자동 제출
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/jjlee6496/leethub/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/jjlee6496/leethub/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jjlee6496/leethub/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jjlee6496/leethub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/jjlee6496/leethub/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -291,6 +292,7 @@ leetcode 자동 제출
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jjlee6496/leethub/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/jjlee6496/leethub/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jjlee6496/leethub/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -422,6 +424,7 @@ leetcode 자동 제출
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jjlee6496/leethub/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jjlee6496/leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jjlee6496/leethub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/jjlee6496/leethub/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/jjlee6496/leethub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jjlee6496/leethub/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jjlee6496/leethub/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -707,6 +710,7 @@ leetcode 자동 제출
 | [2132-convert-1d-array-into-2d-array](https://github.com/jjlee6496/leethub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/jjlee6496/leethub/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jjlee6496/leethub/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/jjlee6496/leethub/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
