@@ -1,6 +1,6 @@
 class Solution(object):
     sieve = [True] * (10 ** 6 + 1)
-    sieve[0] = sieve[1] = False
+    # sieve[0] = sieve[1] = False
     for i in range(2, 10 ** 3 + 1):
         if sieve[i]:
             for j in range(i * i, 10 ** 6 + 1, i):
@@ -12,15 +12,17 @@ class Solution(object):
         :type right: int
         :rtype: List[int]
         """
-        primes = [i for i in range(left, right + 1) if self.sieve[i]]
+        prev = -1
         closest = [-1, -1]
-        if len(primes) < 2:
-            return closest
-
         min_diff = float('inf')
-        for i in range(1, len(primes)):
-            diff = primes[i] - primes[i - 1]
-            if diff < min_diff:
-                min_diff = diff
-                closest = [primes[i - 1], primes[i]]
+
+        for i in range(left, right + 1):
+            if self.sieve[i]:
+                if prev != -1:
+                    diff = i - prev
+                    if diff < min_diff:
+                        min_diff = diff
+                        closest = [prev, i]
+                prev = i
+        
         return closest
