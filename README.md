@@ -287,6 +287,7 @@ leetcode 자동 제출
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jjlee6496/leethub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/jjlee6496/leethub/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jjlee6496/leethub/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/jjlee6496/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/jjlee6496/leethub/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jjlee6496/leethub/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
@@ -841,6 +842,7 @@ leetcode 자동 제출
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/jjlee6496/leethub/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/jjlee6496/leethub/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/jjlee6496/leethub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
