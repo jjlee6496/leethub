@@ -1,6 +1,6 @@
 class Solution(object):
     sieve = [True] * (10 ** 6 + 1)
-    # sieve[0] = sieve[1] = False
+    sieve[1] = False
     for i in range(2, 10 ** 3 + 1):
         if sieve[i]:
             for j in range(i * i, 10 ** 6 + 1, i):
