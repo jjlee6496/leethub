@@ -5,19 +5,21 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        colors = colors + colors[:k - 1]
         n = len(colors)
-        res = 0
-        l = 0
-        r = 1
-        while r < n:
-            if colors[r] == colors[r - 1]:
-                l = r
-                r += 1
+        result = 0
+        seq = 1
+        prev = colors[0]
+        
+        for i in range(1, n + k - 1):
+            index = i % n
+
+            if colors[index] == prev:
+                seq = 1
+                prev = colors[index]
             
             else:
-                r += 1
-                if r - l == k:
-                    res += 1
-                    l += 1
-        return res
+                seq += 1
+                if seq >= k:
+                    result += 1
+                prev = colors[index]
+        return result
