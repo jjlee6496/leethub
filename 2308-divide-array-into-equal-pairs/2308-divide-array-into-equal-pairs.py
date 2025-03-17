@@ -4,8 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        cnt = Counter(nums)
-        for v in cnt.values():
+        for v in Counter(nums).values():
             if v % 2:
                 return False
         return True
