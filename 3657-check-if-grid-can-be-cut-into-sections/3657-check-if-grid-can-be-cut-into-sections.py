@@ -8,7 +8,7 @@ class Solution(object):
                 prev = l[i]
             else:
                 prev = (prev[0], max(prev[1], l[i][1]))
-        return cnt
+        return cnt >= 2
 
     def checkValidCuts(self, n, rectangles):
         """
@@ -21,4 +21,4 @@ class Solution(object):
 
         a = self.slicing(x)
         b = self.slicing(y)        
-        return a >= 2 or b >= 2
+        return a or b
