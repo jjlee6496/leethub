@@ -4,13 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[bool]
         """
-        temp = ''
         ans = []
-        for num in nums:
-            temp += str(num)
-            if int('0b'+temp, 2) % 5 == 0:
-                ans.append(True)
-            else:
-                ans.append(False)
+        temp = 0
+        for b in nums:
+            temp = (temp * 2 + b) % 5
+            ans.append(temp == 0)
         return ans
-        
