@@ -194,6 +194,7 @@ leetcode 자동 제출
 | [1002-maximum-width-ramp](https://github.com/jjlee6496/leethub/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/jjlee6496/leethub/tree/master/1025-minimum-cost-for-tickets) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/jjlee6496/leethub/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/jjlee6496/leethub/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/jjlee6496/leethub/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/jjlee6496/leethub/tree/master/1207-delete-nodes-and-return-forest) |
@@ -332,6 +333,7 @@ leetcode 자동 제출
 | [0476-number-complement](https://github.com/jjlee6496/leethub/tree/master/0476-number-complement) |
 | [1038-number-of-squareful-arrays](https://github.com/jjlee6496/leethub/tree/master/1038-number-of-squareful-arrays) |
 | [1054-complement-of-base-10-integer](https://github.com/jjlee6496/leethub/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/jjlee6496/leethub/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jjlee6496/leethub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jjlee6496/leethub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/jjlee6496/leethub/tree/master/1940-maximum-xor-for-each-query) |
